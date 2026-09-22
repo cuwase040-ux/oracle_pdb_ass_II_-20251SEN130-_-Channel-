@@ -140,9 +140,7 @@ oracle_pdb_ass_II_[studentId]_[firstname]/
 ├── README.md
 │
 └── screenshots/
-    ├── pdb_creation/
-    ├── pdb_deletion/
-    └── oem_dashboard/
+    
 ```
 
 The screenshots are organized into separate folders according to the assignment tasks to make the evidence easy to locate and review.
