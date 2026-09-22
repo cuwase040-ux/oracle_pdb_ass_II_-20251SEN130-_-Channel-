@@ -173,9 +173,9 @@ The screenshots and evidence included in this repository correspond to the work 
 
 | Item                   | Details                               |
 | ---------------------- | ------------------------------------- |
-| **Repository Link**    | `[PASTE YOUR PUBLIC GITHUB URL HERE]` |
+| **Repository Link**    | `[https://github.com/cuwase040-ux/oracle_pdb_ass_II_-20251SEN130-_-Channel-]` |
 | **PDB Name Created**   | `[ch_pdb_20251SEN130]`                     |
-| **Issues Encountered** | `[Yes/NO]`                            |
+| **Issues Encountered** | `[Yes/No]`                            |
 
 ---
 
