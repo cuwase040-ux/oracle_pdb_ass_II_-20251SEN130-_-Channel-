@@ -135,11 +135,8 @@ This GitHub repository provides documentation and evidence for all four tasks co
 The repository is organized as follows:
 
 ```text
-oracle_pdb_ass_II_[studentId]_[firstname]/
-│
-├── README.md
-│
-└── screenshots/
+
+│ ├── OEM Dashboard TASK 3.png │ ├── PDB created TASK 1.png │ ├── PDB creation TASK 2.png │ ├── PDB deletion TASK 2.png │ ├── PDB dropped proof TASK 2.png │ ├── README.md │ ├── User created in PDB TASK 1.png │ └── User in PDB proof TASK 1.png
     
 ```
 
