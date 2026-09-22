@@ -140,9 +140,7 @@ oracle_pdb_ass_II_[studentId]_[firstname]/
 ├── README.md
 │
 └── screenshots/
-    ├── pdb_creation/
-    ├── pdb_deletion/
-    └── oem_dashboard/
+    
 ```
 
 The screenshots are organized into separate folders according to the assignment tasks to make the evidence easy to locate and review.
@@ -175,9 +173,9 @@ The screenshots and evidence included in this repository correspond to the work 
 
 | Item                   | Details                               |
 | ---------------------- | ------------------------------------- |
-| **Repository Link**    | `[PASTE YOUR PUBLIC GITHUB URL HERE]` |
+| **Repository Link**    | `[https://github.com/cuwase040-ux/oracle_pdb_ass_II_-20251SEN130-_-Channel-]` |
 | **PDB Name Created**   | `[ch_pdb_20251SEN130]`                     |
-| **Issues Encountered** | `[Yes/NO]`                            |
+| **Issues Encountered** | `[Yes/No]`                            |
 
 ---
 
